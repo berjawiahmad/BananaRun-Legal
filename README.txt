@@ -1,0 +1,1 @@
+Upload privacy-policy.html, terms-and-conditions.html and legal-style.css to the ROOT of the BananaRun-Legal repository. Existing index.html may remain unchanged. The original legal paragraphs are preserved; effective dates are unchanged. Review legal accuracy before publishing. No changes to app-ads.txt or other repositories.\n
